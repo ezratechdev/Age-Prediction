@@ -1,0 +1,17 @@
+# Pretrained model weights. Large binary files, download separately
+age_prediction_pretrained_models/*.caffemodel
+age_prediction_pretrained_models/*.pb
+# Pretrained model weights. Large binary files, download separately
+age_prediction_pretrained_models/*.caffemodel
+age_prediction_pretrained_models/*.pb
+
+# Test/input images
+human_photo_to_predict/
+
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
